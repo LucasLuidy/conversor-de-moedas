@@ -35,8 +35,6 @@ Desenvolvemos o projeto como trabalho final da disciplina de Web 1. Foi minha pr
 
 3. Abra o arquivo **index.html**  no navegador. Se preferir, use a extensão Live Server do VS Code.
 
-É necessário ter acesso à internet para consultar as taxas e carregar os ícones. O projeto não exige instalação de pacotes nem uma etapa de compilação.
-
 ### Sobre o desenvolvimento
 A parte visual me deu trabalho, principalmente o CSS. Eu ainda estava começando a conhecer UI/UX e busquei referências em outros sites para montar uma interface mais simples. Gostei bastante da estética que conseguimos alcançar nessa etapa.
 
