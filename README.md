@@ -1,7 +1,8 @@
 # Conversor de moedas
 Um conversor de moedas feito com **HTML**, **CSS** e **JavaScript**. Você informa um valor, escolhe as moedas e o site consulta a **ExchangeRate-API** para calcular a conversão.
 
-Desenvolvemos o projeto como trabalho final da disciplina de Web 1. Foi minha primeira experiência integrando uma API a um site e uma oportunidade de colocar em prática o que estava aprendendo sobre desenvolvimento web.
+### Sobre a atividade
+Desenvolvemos este projeto em **2024** como trabalho final da disciplina de **Desenvolvimento Web 1**, no **IFNMG Campus Salinas**. Para a entrega, criamos a interface do conversor e integramos uma **API** de câmbio para calcular as conversões com as taxas consultadas pelo site.
 
 ### O que dá para fazer
 
@@ -16,10 +17,6 @@ Desenvolvemos o projeto como trabalho final da disciplina de Web 1. Foi minha pr
 - **JavaScript:** interação com a página, consulta à API e cálculo da conversão.
 - **ExchangeRate-API:** fornecimento das taxas de câmbio.
 - **Font Awesome:** ícones da interface.
-
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/LucasLuidy?tab=repositories&language=html5)
-[![CSS3](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/LucasLuidy?tab=repositories&language=css3)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://github.com/LucasLuidy?tab=repositories&language=javascript)
 
 ### Como executar
 
@@ -49,3 +46,7 @@ O indicador de última atualização ainda precisa de ajuste: ele usa os minutos
 - Lucas Luidy Tolentino Gonçalves
 - Estevão Castilho Soares Aquino
 - Gabriel Alves Teixeira
+
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/LucasLuidy?tab=repositories&language=html5)
+[![CSS3](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/LucasLuidy?tab=repositories&language=css3)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://github.com/LucasLuidy?tab=repositories&language=javascript)
