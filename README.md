@@ -1,4 +1,4 @@
-# Finanças Globais - Conversor de moedas
+# Conversor de moedas
 Um conversor de moedas feito com **HTML**, **CSS** e **JavaScript**. Você informa um valor, escolhe as moedas e o site consulta a **ExchangeRate-API** para calcular a conversão.
 
 Desenvolvemos o projeto como trabalho final da disciplina de Web 1. Foi minha primeira experiência integrando uma API a um site e uma oportunidade de colocar em prática o que estava aprendendo sobre desenvolvimento web.
